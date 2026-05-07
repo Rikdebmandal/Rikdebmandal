@@ -1,111 +1,121 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rikdeb%20Mandal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Science&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-# Hi, I'm Rikde
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Rikdebmandal">
+    <img src="https://komarev.com/ghpvc/?username=Rikdebmandal&label=Profile%20views&color=00FFFF&style=flat-square" alt="Rikdebmandal's profile views" />
+  </a>
+</p>
 
-### Software Developer | Problem Solver | Open to Opportunities in India and Worldwide
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-I build clean, practical, and user-focused software. I am focused on improving my skills, creating real projects, and growing into a developer who can contribute to reliable products and strong engineering teams.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0e75b6)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-## About Me
-
+## 📌 About Me
 - Based in India and open to opportunities in India and abroad.
 - Interested in software development, web technologies, clean UI, and practical problem solving.
 - Currently improving my skills by building projects and learning industry-standard development workflows.
 - I enjoy turning ideas into useful applications with readable code and thoughtful design.
 - Looking for internships, entry-level roles, freelance work, and remote opportunities.
 
----
 
-## Tech Stack
+## 🧠 My Focus Areas
+- Full-Stack Web Development
+- Frontend Engineering with React and modern UI practices
+- Backend API Development with Node.js and Express
+- Database Design using SQL and MongoDB
+- Data Structures and Algorithms for technical interviews
+- AI-powered tools and automation
+- Clean code, GitHub workflows, and real-world project building
 
-<!-- Keep only the skills you actually know. Add more when you learn them. -->
 
-### Languages
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Rikdebmandal">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rikdebmandal&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="Rikdebmandal's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Rikdebmandal&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="Rikdebmandal's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Rikdebmandal&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rikdeb Mandal's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Rikdebmandal&theme=shades-of-purple&radius=10" alt="Rikdebmandal's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Frontend
+## 🛠️ Languages & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
 
-### Backend and Database
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
 
-### Tools
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
----
+</p>
 
-## Featured Projects
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
 
-<!-- Replace these with your best real projects. Add live links if available. -->
+</p>
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Project One](YOUR_PROJECT_LINK) | A practical application focused on solving a real-world problem. | HTML, CSS, JavaScript |
-| [Project Two](YOUR_PROJECT_LINK) | A responsive web app with clean UI and reusable components. | React, Tailwind CSS |
-| [Project Three](YOUR_PROJECT_LINK) | A backend or full-stack project with structured data and API logic. | Node.js, Express, MongoDB |
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
----
+</p>
 
-## What I Am Working On
+<p align="center">
+  <a href="https://github.com/Rikdebmandal">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rikdebmandal&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-- Building stronger full-stack projects.
-- Practicing Data Structures and Algorithms.
-- Improving Git, GitHub, deployment, and collaborative development workflows.
-- Learning how to write cleaner, more maintainable code.
+![Top language](https://stats.pphat.top/languages?username=Rikdebmandal)
+<br/>
 
----
+## 🔗 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/rikdeb-mandal-a531b2387">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Rony45424972">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/918759778110">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:rikdebmandal009@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
-## GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/rikdebmandal009@oksbi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Contact
-
-I am open to internships, junior developer roles, freelance projects, collaborations, and remote opportunities.
-
-- Email: YOUR_EMAIL
-- LinkedIn: [YOUR_LINKEDIN_NAME](YOUR_LINKEDIN_URL)
-- Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
-- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-I am always learning, building, and improving.
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
